@@ -2,6 +2,26 @@
 
 This project provides a desktop memory game for orthophonist sessions.
 
+## Demo (screenshots and video)
+
+### Quick video
+
+![Orthophony memory test demo](docs/assets/demo.gif)
+
+### Screenshots
+
+#### 1) Configuration screen
+
+![Configuration screen](docs/assets/screenshot-settings.png)
+
+#### 2) Memorization phase
+
+![Memorization phase](docs/assets/screenshot-memorization.png)
+
+#### 3) Recall phase
+
+![Recall phase](docs/assets/screenshot-recall.png)
+
 ## Game rules
 
 - There are **4 shapes** and **4 colors**, creating **16 total combinations**.
